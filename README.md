@@ -19,3 +19,6 @@ This project demonstrates the creation of a simple, user-friendly calculator int
 2.Start using the calculator!
 
 📌Clone the repository: git clone https://github.com/prachiagg06/calculator.git
+
+## Screenshot
+<img width="921" height="613" alt="Screenshot 2025-08-18 at 3 23 43 PM" src="https://github.com/user-attachments/assets/c9f4b381-0ab0-4a8d-a0ac-63a522dfb9d9" />
